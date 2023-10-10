@@ -1,2 +1,7 @@
 venv/
 .vscode
+.env
+.DS_Store
+store_status.csv
+menu_hours.csv
+bq_results.csv
